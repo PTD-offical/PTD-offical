@@ -1,24 +1,94 @@
 <h1 align="center">Hi 👋, I'm Mohammad Hatem Elkhouly (PTD_Dev)</h1>
-<h3 align="center">A passionate iot enginner from Egypt</h3>
+<h3 align="center">A passionate IoT engineer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ptd-offical&label=Profile%20views&color=0e75b6&style=flat" alt="ptd-offical" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ptd-offical" alt="ptd-offical" /></a> </p>
-
-- ⚡ cool fact **i'm a contact creator**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ptd4tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ptd4tech" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22447169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22447169" height="30" width="40" /></a>
-<a href="https://instagram.com/ptd4dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ptd4dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@ptd4dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ptd4dev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ptd_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ptd_dev" height="30" width="40" /></a>
-<a href="https://discord.gg/D5hBTTFySX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="D5hBTTFySX" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ptd-offical&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ptd-offical" alt="ptd-offical" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptd-offical&show_icons=true&locale=en&layout=compact" alt="ptd-offical" /></p>
+- ⚡ Fun Fact: **I'm a content creator and an IoT enthusiast!**
+- 🛠️ I am currently building **IoT solutions** and exploring **AI-powered applications**.
+- 🌱 I’m currently learning **Python**, **C++**, **React**, and **Next.js** for my projects.
 
+<h3 align="center">Tech Enthusiast:</h3>
+<p align="center">
+  As a passionate tech enthusiast, I'm constantly exploring the latest trends in the world of technology. I'm excited about the following:
+  <ul>
+    <li>🔌 **IoT Innovations**: Working on creating smarter, connected devices.</li>
+    <li>🤖 **Artificial Intelligence**: Developing AI-driven applications and exploring machine learning models.</li>
+    <li>🌐 **Web3 & Blockchain**: Learning about decentralized technologies and their future impact.</li>
+    <li>💡 **Edge Computing**: Delving into edge devices and their role in modern computing.</li>
+    <li>🛠️ **Development Tools & Frameworks**: Continuously experimenting with new frameworks and tools like **Flutter**, **React**, and **Next.js**.</li>
+  </ul>
+</p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://twitter.com/ptd4tech" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/22447169" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/ptd4dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/https://www.youtube.com/@ptd4dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/ptd_dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/D5hBTTFySX" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/ptd-dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
+  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/> </a>
+</p>
+
+<h3 align="center">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ptd-offical&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ptd-offical&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<h3 align="center">Featured Projects:</h3>
+<p align="center">
+  <a href="https://github.com/ptd-offical/iot-project-1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ptd-offical&repo=iot-project-1&theme=radical" alt="IoT Project 1" />
+  </a>
+  <a href="https://github.com/ptd-offical/flutter-app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ptd-offical&repo=flutter-app&theme=radical" alt="Flutter App" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ptd-offical/tech-blog" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ptd-offical&repo=tech-blog&theme=radical" alt="Tech Blog" />
+  </a>
+</p>
