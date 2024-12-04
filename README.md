@@ -78,9 +78,4 @@
 </p>
 
 </p>
-
-<p align="center">
-  <a href="https://github.com/ptd-offical/tech-blog" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ptd-offical&repo=tech-blog&theme=radical" alt="Tech Blog" />
-  </a>
 </p>
