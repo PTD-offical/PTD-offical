@@ -77,14 +77,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ptd-offical&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<h3 align="center">Featured Projects:</h3>
-<p align="center">
-  <a href="https://github.com/ptd-offical/iot-project-1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ptd-offical&repo=iot-project-1&theme=radical" alt="IoT Project 1" />
-  </a>
-  <a href="https://github.com/ptd-offical/flutter-app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ptd-offical&repo=flutter-app&theme=radical" alt="Flutter App" />
-  </a>
 </p>
 
 <p align="center">
